@@ -1,7 +1,8 @@
 public class alfredarbete {
-    public static void main(String[] args) {
 
+        public static String ordet(String x) {
 
-
+            return "hi";
     }
+
 }
