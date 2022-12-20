@@ -3,7 +3,13 @@ public class Main {
 
         int count = 0;
 
-        String word = "amogus";
+        String word = alfredarbete.ordet("run");
+
+        System.out.println(word);
+
+        String censured = alfredarbete.censoredOrdet(word);
+
+        System.out.println(censured);
 
         String guess = "";
 

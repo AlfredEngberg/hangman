@@ -8,7 +8,6 @@ abborrpinne
 abbot
 abbotsstift
 abbreviatur
-abc
 Abchazien
 abchazier
 abchazisk
@@ -172,8 +171,7 @@ ackompanjemangsinstrument
 ackompanjera
 ackord
 ackordeon
-ackordera
-ackordera ut
+ackorder
 ackordering
 ackordföljd
 ackordisk
@@ -215,9 +213,6 @@ actionrulle
 actionscen
 actionserie
 actionthriller
-ad hoc
-ad hoc-lösning
-ad notam
 AD-vitamin
 adagietto
 adagio
